@@ -1,7 +1,7 @@
 # ✨ Mehak Verma — Portfolio
 
 <div align="center">
-  <img src="https://socialify.git.ci/Mehak-991/portfolio/image?description=Aspiring%20AI%2FML%20Engineer%20%26%20Data%20Science%20Enthusiast&font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" alt="Portfolio Header" width="640" height="320" />
+  <img src="public/portfolio-preview.png" alt="Portfolio Header" width="100%" />
 </div>
 
 <p align="center">

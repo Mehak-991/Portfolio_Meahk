@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <a href="https://portfolio-meahk-46ul7nf0r-mehak-991s-projects.vercel.app"><b>🌐 Live Site</b></a> •
+  <a href="https://portfolio-meahk.vercel.app"><b>🌐 Live Site</b></a> •
   <a href="https://github.com/Mehak-991"><b>📂 GitHub</b></a> •
   <a href="https://www.linkedin.com/in/mehak-verma99"><b>🔗 LinkedIn</b></a>
 </p>

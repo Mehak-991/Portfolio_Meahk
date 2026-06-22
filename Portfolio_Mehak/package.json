@@ -1,0 +1,35 @@
+{
+  "name": "mehak verma -portfolio",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@radix-ui/react-progress": "^1.1.8",
+    "@tsparticles/engine": "^3.7.1",
+    "@tsparticles/react": "^3.0.0",
+    "@tsparticles/slim": "^3.7.1",
+    "clsx": "^2.1.1",
+    "gsap": "^3.12.7",
+    "lucide-react": "^0.468.0",
+    "motion": "^12.38.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "tailwind-merge": "^2.6.0"
+  },
+  "devDependencies": {
+    "@types/node": "^25.6.0",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^4.3.4",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.17",
+    "typescript": "^5.6.3",
+    "vite": "^6.0.5"
+  }
+}

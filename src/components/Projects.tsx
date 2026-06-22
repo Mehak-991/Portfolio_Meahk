@@ -36,6 +36,7 @@ const PROJECTS = [
       { label: "Query Response", value: "< 50ms", icon: Zap, color: "text-amber-400" },
       { label: "Recommendation Accuracy", value: "95%", icon: BarChart3, color: "text-emerald-400" }
     ]
+
   },
   {
     title: "California House Price Prediction Model",

@@ -26,7 +26,7 @@ export default function About() {
           <h2 className="text-4xl md:text-5xl font-black tracking-tight">
             Building practical{" "}
             <span className="gradient-text">AI solutions from data</span>{" "}
-            to deployment.
+            to deployment
           </h2>
         </motion.div>
 
@@ -64,7 +64,6 @@ export default function About() {
               <span className="text-foreground font-semibold">
               building practical AI solutions from data to deployment.
               </span>
-              .
             </p>
           </motion.div>
 

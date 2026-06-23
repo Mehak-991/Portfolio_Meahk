@@ -38,12 +38,13 @@ export default function About() {
             animate={inView ? { opacity: 1, x: 0 } : {}}
             transition={{ duration: 0.7, delay: 0.2 }}
           >
-            <p className="text-muted-foreground leading-relaxed text-base mb-6">
-             I'm an Aspiring AI/ML Engineer & Data Science Enthusiast and B.Tech Information Technology student, with hands-on experience building machine learning models, NLP pipelines, and deployable AI applications. 
-             From engineering fine-tuned predictive models using Scikit-learn to building NLP-driven recommendation and classification systems with TF-IDF and Naive Bayes, I specialize in turning raw data into intelligent, 
-             real-world solutions. With growing expertise in Generative and Agentic AI using LangChain, LangGraph, CrewAI, and RAG — I'm focused on building practical AI systems from data to deployment.
+            <p className="text-muted-foreground leading-relaxed text-[17px] mb-6">
+            I am an aspiring AI/ML Engineer and Data Science enthusiast pursuing a B.Tech in Information Technology. 
+            I specialize in Machine Learning, NLP, Generative AI, and Retrieval-Augmented Generation (RAG), with hands-on experience
+             building recommendation systems, predictive models, intelligent chatbots, and AI-powered applications. Skilled in Python, Scikit-learn, 
+             LangChain, LangGraph, and modern AI frameworks, I enjoy transforming complex data into practical, scalable solutions that solve real-world problems.
             </p>
-            <p className="text-muted-foreground leading-relaxed text-base mb-6">
+            <p className="text-muted-foreground leading-relaxed text-[17px] mb-6">
               At{" "}
               <a
                 href="https://www.techiesgroup.co.in/"
@@ -58,7 +59,7 @@ export default function About() {
                Random Forest house price predictor, and an NLP-based spam classifier — using Django, Streamlit, and Gradio.
 
             </p>
-            <p className="text-muted-foreground leading-relaxed text-base">
+            <p className="text-muted-foreground leading-relaxed text-[17px]">
               Driven by one goal:{" "}
               <span className="text-foreground font-semibold">
               building practical AI solutions from data to deployment.
@@ -139,14 +140,6 @@ export default function About() {
       `}<span className="text-primary">"focus"</span>{`: `}<span className="text-green-400">"Multi-step agentic workflows, Rag"</span>
 {`
     },`}
-{`  
-      `}<span className="text-primary">"category"</span>{`: `}<span className="text-green-400">"NLP & Text Intelligence"</span>{`,`}
-{`
-      `}<span className="text-primary">"stack"</span>{`: `}<span className="text-green-400">"TF-IDF + NLTK + Naive BayesVespa + FastAPI"</span>{`,`}
-{`
-      `}<span className="text-primary">"focus"</span>{`: `}<span className="text-green-400">"Recommendation systems, spam detection, semantic analysis"</span>
-{`
-    {`}
 {`
       `}<span className="text-primary">"category"</span>{`: `}<span className="text-green-400">"Cloud & Infrastructure"</span>{`,`}
 {`

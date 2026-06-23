@@ -58,7 +58,8 @@ export default function Hero() {
           transition={{ delay: 0.6, duration: 0.6 }}
           className="mt-6 text-lg sm:text-xl text-muted-foreground max-w-2xl mx-auto leading-relaxed"
         >
-          <span className="text-foreground font-semibold">Aspiring AI/ML Engineer & Data Science Enthusiast</span> building ML & NLP applications with Python, Scikit-learn, and Generative AI (LangChain).
+          <span className="text-foreground font-semibold">Aspiring AI/ML Engineer & Data Science Enthusiast</span> Building intelligent
+          <br />applications with ML, NLP, GenAI (Langchain), & Python.
         </motion.p>
 
         {/* CTA row */}

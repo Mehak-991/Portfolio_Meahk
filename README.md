@@ -97,10 +97,10 @@ Portfolio_Mehak/
 ---
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mehak-verma99-blue
-style=flat&logo=linkedin&logoColor=b0c0c0&labelColor=363D44)](https://www.linkedin.com/in/mehak-verma99)
-- 📧 Email: [missmehak755@gmail.com](mailto:missmehak755@gmail.com)
-- 🔗 LinkedIn: [Mehak Verma](https://www.linkedin.com/in/mehak-verma99)
+
+[![Instagram](https://img.shields.io/badge/Instagram-vrmx__mehak99-grey?style=flat&logo=instagram&logoColor=b0c0c0&labelColor=8134af)](https://www.instagram.com/vrmx_mehak99)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mehak--verma99-blue?style=flat&logo=linkedin&logoColor=b0c0c0&labelColor=363D44)](https://www.linkedin.com/in/mehak-verma99)
+[![Email](https://img.shields.io/badge/Email-missmehak755@gmail.com-red?style=flat&logo=gmail&logoColor=b0c0c0&labelColor=363D44)](mailto:missmehak755@gmail.com)
 
 <div align="center">
   <br />

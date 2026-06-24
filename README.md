@@ -97,7 +97,8 @@ Portfolio_Mehak/
 ---
 
 ### 📫 Connect with Me
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mehak-verma99-blue
+style=flat&logo=linkedin&logoColor=b0c0c0&labelColor=363D44)](https://www.linkedin.com/in/mehak-verma99)
 - 📧 Email: [missmehak755@gmail.com](mailto:missmehak755@gmail.com)
 - 🔗 LinkedIn: [Mehak Verma](https://www.linkedin.com/in/mehak-verma99)
 

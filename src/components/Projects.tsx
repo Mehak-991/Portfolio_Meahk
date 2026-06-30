@@ -47,7 +47,7 @@ const PROJECTS = [
     accentColor: "text-emerald-400",
     gradient: "from-emerald-500/20 to-green-500/20",
     github: "https://github.com/Mehak-991/California-House-Price-Prediction-Model",
-    live: "  https://california-house-price-prediction-model-3.onrender.com",
+    live: "https://california-house-price-prediction-model-3.onrender.com",
     features: [
       "Developed a Random Forest regression model (scikit-learn) to predict California house prices, trained on 20,640 housing records with numerical and categorical features.",
       "Performed data preprocessing, feature engineering, and standardization, including missing value imputation and one-hot encoding for optimal model accuracy.",
